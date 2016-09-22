@@ -18,4 +18,8 @@
     	 you know, when they ask their constitutents what they should think!! \
     	 Oh boy.  ');
 
+    $('input#id_full_name').val("Vladdy P");
+    $('input#id_email').val('killmepls@gmail.com');
+    $('input#id_postal_code').val('48169');
+
   }(window, window.document, window.jQuery));
