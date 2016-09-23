@@ -9,7 +9,7 @@
     // Our code will go here.
 
     $('input[type=text]')
-    	.val('Putin paid to do this');
+    	.val('Putin paid to do this')
     	.prev().find('input').prop('checked', true);
     $('textarea')
     .val('Boy oh boy here I go fillin these forms!! \
