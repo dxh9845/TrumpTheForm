@@ -16,7 +16,7 @@
 
     $('#id_question_2855_1').val("Death panels are so expensive these days!!").css('width', '100%');
 
-    $('#id_question_2856_1').val("I was really upset when Katniss'so dad died, so yeah, please do.").css('width', '100%');
+    $('#id_question_2856_1').val("I was really upset when Katniss's dad died, so yeah, please do.").css('width', '100%');
     $('#id_question_2857_1').val("Real foundations buy $20,000 portraits and payoff lawsuits, dummies.").css('width', '100%');
     $('#id_question_2858_1').val("Screw political correctness. Hell, screw even being correct!").css('width', '100%');
     $('#id_question_2859_1').val("Leave the lying to Trump, shillary.").css('width', '100%');
@@ -40,7 +40,6 @@
     $('#id_question_2879_1').val("Hillary is my least favorite Marvel villain").css('width', '100%');
     $('#id_question_2880_1').val("Extremely hard to masturbate to.").css('width', '100%');
     $('#id_question_2881').val("Go get em Donny! We believe in you. Specifically, we believe that you will embarass yourself more than ever before.")
-
 
     // Check the other boxes
     $('input[type=text]')
