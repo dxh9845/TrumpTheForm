@@ -31,7 +31,7 @@
     $('#id_question_2869_1').val("Putin paid to do this").css('width', '100%');
     $('#id_question_2870_1').val("My favorite war was when Trump called Rosie O'Donnell a fat pig. Brave!").css('width', '100%');
     $('#id_question_2871_1').val("People were denied Trump apartments due to race. But he totally cares!").css('width', '100%');
-    $('#id_question_2872_1').val("Choose my schools? Yes. Choose my right to have a baby? Never.").css('width', '100%');
+    $('#id_question_2872_1').val("Choosing my schools? Yes. **Choosing** to have a baby? Never.").css('width', '100%');
     $('#id_question_2873_1').val("I hate these goddamn soda taxes!!").css('width', '100%');
     $('#id_question_2875_1').val("These dudes? they're guantanamo **babes**").css('width', '100%');
     $('#id_question_2876_1').val("What's Iran?").css('width', '100%');
